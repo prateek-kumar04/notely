@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+.add-note {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  gap: 5px;
+}
+
+.add-note-icon {
+  border: 1px solid blue;
+  border-radius: 4px;
+  padding: 2px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
